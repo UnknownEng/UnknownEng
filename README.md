@@ -1,127 +1,346 @@
-<!-- ======================= HEADER BANNER ======================= -->
+<!-- =========================
+     PROFILE HEADER
+========================= -->
 
-<h1 align="center">🚀 Mansoor Ahmed Rind</h1>
-<h3 align="center">UAV Autonomy Engineer | Robotics | Embedded AI | Computer Vision</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/mansoorahmedrind">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin">
+# 👋 Hey, I'm Mansoor Ahmed Rind
+
+### Electrical Engineer · UAV & Robotics · Embedded Systems · AI/ML · Web Development
+
+<p>
+  <a href="https://github.com/UnknownEng">
+    <img src="https://img.shields.io/badge/GitHub-UnknownEng-181717?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/UAV-Autonomy-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ROS-Noetic-green?style=for-the-badge&logo=ros">
-  <img src="https://img.shields.io/badge/MAVLink-FlightControl-orange?style=for-the-badge">
+  <a href="https://linkedin.com/in/mansoorahmedrind">
+    <img src="https://img.shields.io/badge/LinkedIn-Mansoor%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/UnknownEng?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-29-2ea44f?style=for-the-badge&logo=github" />
+  </a>
 </p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=UnknownEng&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Electrical Engineering Student at NUST  
-🛩 UAV & Robotics Autonomy Specialist  
-🧠 Focused on Mission-Based Autonomous Systems  
-🚀 Founder of **AeroMavericks**
+🎓 **Electrical Engineering student at NUST**
+🛩️ **Drone & UAV developer**
+🤖 **Robotics & autonomous systems enthusiast**
+🧠 **Machine Learning / Deep Learning learner**
+⚡ **Embedded systems & electronics builder**
+🌐 **Wix & WordPress web developer**
+🔋 **Researching Electric Vehicles & emerging technologies**
 
-I design, integrate and test:
+I enjoy building projects that combine **electronics, software, automation, robotics and intelligent systems**.
 
-- Precision Landing Systems  
-- Multi-UAV Swarms  
-- GPS-Denied Navigation  
-- Vision-Based Control Systems  
-- Autonomous VTOL & Fixed Wing Platforms  
+From small embedded prototypes to UAVs and software applications, I like turning ideas into something that can actually be **built, tested and improved**.
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 What I Build
 
-### 🤖 Robotics & Autonomy
-<p>
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros">
-  <img src="https://img.shields.io/badge/MAVROS-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/ArduPilot-EE3423?style=for-the-badge">
-  <img src="https://img.shields.io/badge/PX4-0056A3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Gazebo-3C3C3C?style=for-the-badge">
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 👁 Computer Vision & AI
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv">
-  <img src="https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Oak--D-Lite-blue?style=for-the-badge">
-</p>
+## 🛩️ UAV & Drones
+
+* Quadcopter systems
+* UAV electronics
+* Flight-control experimentation
+* Autonomous systems
+* Drone development
+* Mission-oriented UAV concepts
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🤖 Robotics
+
+* Robotic arms
+* Motion control
+* Wireless robotics
+* Autonomous robots
+* Embedded robotics
+* Hardware/software integration
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🧠 AI & Machine Learning
+
+* Machine learning
+* Deep learning
+* Computer vision
+* AI experimentation
+* Intelligent systems
+* Applied AI projects
+
+</td>
+
+<td width="50%" valign="top">
+
+## ⚡ Embedded Systems
+
+* Arduino
+* Microcontrollers
+* Sensors
+* RF / wireless systems
+* Electronics
+* Embedded C/C++
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+## 🌐 Web Development
+
+* HTML
+* CSS
+* JavaScript
+* WordPress
+* Wix
+* Personal / portfolio websites
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🔋 Engineering Research
+
+* Electric Vehicles
+* Energy systems
+* Emerging technologies
+* Engineering experimentation
+* Hardware prototyping
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🛠️ Technology Stack
 
 ### 💻 Programming
+
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css" />
 </p>
 
-### 🔌 Embedded Systems
+### 🤖 Robotics & Embedded
+
 <p>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino">
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ros" />
+</p>
+
+### 🌐 Web & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,wordpress" />
 </p>
 
 ---
 
-## 🧠 Core Expertise
+# 🔥 Featured Work
 
-- 🎯 Precision Landing (Static & Moving Platforms)
-- 🛰 MAVLink / MAVROS Control Pipelines
-- 🌍 GPS-Denied Vision Navigation
-- 🛩 VTOL & Fixed-Wing Integration
-- 🤝 Multi-UAV Swarm Coordination
-- 🔄 SITL + Gazebo Simulation Testing
-- ⚡ Real-Time Velocity Control via CV
+<div align="center">
 
----
+<a href="https://github.com/UnknownEng/4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UnknownEng&repo=4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM&theme=tokyonight&hide_border=true" />
+</a>
 
-## 🚀 Featured Projects
+<a href="https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UnknownEng&repo=Arduino-Based-F450-Quadcopter-Drone&theme=tokyonight&hide_border=true" />
+</a>
 
-- 🛬 UAV Precision Landing on Moving Platform  
-- 🛫 VTOL UAV Prototype  
-- 🤖 Multi-TurtleBot3 Swarm Navigation  
-- 🛣 YOLOv8 Road Crack Detection  
-- 🚑 Autonomous Medicine Supply Drone  
-- 🧭 GPS-Denied Navigation (Oak-D + MAVLink)  
-- 🌪 Disaster Relief Autonomous UAV  
-- 🧩 UAV Swarm Formation (ROS + RPi)  
+</div>
 
----
+<div align="center">
 
-## 🏆 Competitions & Achievements
+<a href="https://github.com/UnknownEng/Personal-Portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UnknownEng&repo=Personal-Portfolio&theme=tokyonight&hide_border=true" />
+</a>
 
-🥉 Aerothon’25 – 3rd Position & Swift Wing Award  
-🇹🇷 Teknofest Turkey 2025 – Finalist (Ranked 19/200+)  
-🇹🇷 Teknofest Turkey 2024 – Finalist  
-✈ International Design Build Fly – Ranked 112/200  
-🛩 IMechE Pakistan UAS Challenge – Team Captain  
-🤖 National Engineering Robotics Competition (NERC)  
+<a href="https://github.com/UnknownEng/Rock-Paper-Scissor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=UnknownEng&repo=Rock-Paper-Scissor&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight">
-</p>
+### 🤖 4-DOF WiFi Web-Controlled Robotic Arm
 
----
+A robotic-arm project combining **embedded control, wireless communication, web interaction and multi-axis movement**.
 
-## 🌍 Mission
-
-> “Autonomy is not about flying — it’s about decision making under uncertainty.”
-
-Building robust, scalable UAV autonomy systems capable of operating in real-world constrained environments.
+**Focus:** Robotics · C++ · Embedded Systems · Wireless Control
 
 ---
 
-## 📫 Contact
+### 🛩️ Arduino-Based F450 Quadcopter
 
-📧 ahmedmansoorrind1210@gmail.com  
-🔗 https://linkedin.com/in/mansoorahmedrind  
+An Arduino-based quadcopter project exploring **drone electronics, control and UAV development**.
+
+**Focus:** UAV · Arduino · Electronics · Flight Systems
 
 ---
 
-⭐ *If you are interested in UAV autonomy, robotics collaboration, or competition partnerships — feel free to connect.*
+### 🌐 Personal Portfolio
+
+A personal web portfolio created to showcase projects, skills and engineering work.
+
+**Focus:** Web Development · HTML
+
+---
+
+### 🎮 Rock Paper Scissors
+
+A JavaScript-based interactive project demonstrating front-end programming and game logic.
+
+**Focus:** JavaScript · Web Development
+
+---
+
+### 🧑‍💻 Educational Quiz System
+
+A C++ programming project developed during the first semester.
+
+**Focus:** C++ · Programming Fundamentals
+
+---
+
+# 🏆 Competitions & Achievements
+
+<div align="center">
+
+|  🏅  | Achievement                                                  |
+| :--: | :----------------------------------------------------------- |
+|  🥉  | **Aerothon '25** — 3rd Position + Swift Wing Award           |
+| 🇹🇷 | **Teknofest Turkey 2025** — Finalist                         |
+| 🇹🇷 | **Teknofest Turkey 2024** — Finalist                         |
+|  ✈️  | **International Design Build Fly** — Competition Participant |
+|  🛩️ | **IMechE Pakistan UAS Challenge** — Team Captain             |
+|  🤖  | **National Engineering Robotics Competition (NERC)**         |
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=UnknownEng&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownEng&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=UnknownEng&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UnknownEng&theme=tokyo-night&hide_border=true&area=true&custom_title=Mansoor%27s%20Contribution%20Graph" />
+
+</div>
+
+---
+
+# 🧭 Current Direction
+
+I'm currently interested in the intersection of:
+
+```text
+        ⚡ Electrical Engineering
+                 │
+        ┌────────┼────────┐
+        ↓        ↓        ↓
+      UAVs    Robotics    EVs
+        │        │        │
+        └───────┬┴────────┘
+                ↓
+          Embedded Systems
+                │
+                ↓
+          AI / Machine Learning
+                │
+                ↓
+       Intelligent Real-World
+             Systems
+```
+
+My goal is to keep moving from **individual prototypes → integrated engineering systems → real-world applications**.
+
+---
+
+# 🌱 Currently Learning
+
+* 🤖 Machine Learning
+* 🧠 Deep Learning
+* 👁️ Computer Vision
+* 🛩️ Advanced UAV Systems
+* ⚡ Embedded Systems
+* 🔋 Electric Vehicle Technologies
+* 🐍 Python for Engineering & AI
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Build → Test → Fail → Learn → Improve → Build Again.**
+
+I believe engineering is best learned by turning theory into **working prototypes** and learning from the problems that appear along the way.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mansoorahmedrind">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/UnknownEng">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 Engineering ideas into real systems.
+
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and follow my engineering journey.
+
+</div>
