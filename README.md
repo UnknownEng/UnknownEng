@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoorahmedrind-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoorahmedrind/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-2ed6a0?style=flat-square&logo=vercel&logoColor=black)](https://personal-portfolio-swart-sigma-44.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-unknownengineer23-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:unknownengineer23@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ahmedmansoorrind1210-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedmansoorrind1210@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-hire%20me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/5r2dqg4)
 ![Profile Views](https://komarev.com/ghpvc/?username=UnknownEng&label=views&color=2ed6a0&style=flat-square)
 
