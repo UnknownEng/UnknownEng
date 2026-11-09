@@ -1,215 +1,219 @@
-<!-- Put this file in your profile repo: github.com/UnknownEng/UnknownEng  ->  README.md -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2ed6a0&height=200&section=header&text=Mansoor%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20UnknownEng%20%E2%80%A2%20builds%20things%20that%20fly%2C%20think%20and%20save%20money&descAlignY=58&descSize=16" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2ed6a0&height=200&section=header&text=Mansoor%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UAV%20Autonomy%20%E2%80%A2%20Swarm%20Robotics%20%E2%80%A2%20ROS%202&descAlignY=58&descSize=18" alt="Mansoor Ahmed" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2ED6A0&center=true&vCenter=true&width=640&lines=Electrical+Engineer+%40+NUST+%F0%9F%87%B5%F0%9F%87%B0;Robotics+%E2%80%A2+UAVs+%E2%80%A2+ML+%28still+leveling+up%29;Web+dev+on+the+side+%28it+ships+tho%29;Open+to+collabs+%26+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=2ED6A0&center=true&vCenter=true&width=700&lines=Founder+%40+Aero+Mavericks;UAV+Autonomy+%26+Multi-Robot+Swarm+Engineer;ROS+2+%E2%80%A2+PX4%2FArduPilot+%E2%80%A2+Computer+Vision;Teknofest+Finalist+%E2%80%A2+Aerothon'25+3rd+Overall;Electrical+Engineering+%40+NUST+'27)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=UnknownEng&label=visitors&color=2ed6a0&style=flat-square)
-![Followers](https://img.shields.io/github/followers/UnknownEng?style=flat-square&color=2ed6a0&label=followers)
-![Repos](https://img.shields.io/badge/public%20repos-29-2ed6a0?style=flat-square)
-![Status](https://img.shields.io/badge/status-open%20to%20work-2ed6a0?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoorahmedrind-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoorahmedrind/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-visit-2ed6a0?style=flat-square&logo=vercel&logoColor=black)](https://personal-portfolio-swart-sigma-44.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-unknownengineer23-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:unknownengineer23@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-hire%20me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/5r2dqg4)
+![Profile Views](https://komarev.com/ghpvc/?username=UnknownEng&label=views&color=2ed6a0&style=flat-square)
 
 </div>
 
 ---
 
-## 👋 wassup
+## About me
 
-i'm **Mansoor**, an Electrical Engineering student at **NUST (class of '27)** based in **Islamabad** 🇵🇰.
-i like building stuff where code meets hardware: drones, robots, and the occasional "why is this not working at 3am" moment.
+I build **autonomous drones and multi-robot swarms**, from Gazebo simulation to real flight.
 
-- 🚁 **research mode:** UAV navigation + swarm stuff at NUST
-- 🧠 **learning:** machine & deep learning (beginner era, but we're locked in)
-- 💻 **side quests:** web apps that actually go live
-- 🚀 **entrepreneur brain:** if a problem annoys me, i try to ship a fix for it
+I'm an Electrical Engineering undergraduate at **NUST, Islamabad (Class of 2027)**, a **Rector's Gold Medalist**, and founder of **[Aero Mavericks](https://github.com/UnknownEng/Team-Website)**, a student UAV team that builds autonomous aircraft for disaster relief, medical delivery and precision missions. I've spent the last 2+ years working on UAV autonomy.
 
-> no cap: i learn by building. every repo here is me figuring something out in public.
+```yaml
+focus:      [UAV autonomy, swarm robotics, precision landing, GPS-denied navigation]
+stack:      [ROS 2, Nav2, MAVROS, PyMAVLink, PX4, ArduPilot, Gazebo]
+vision:     [OpenCV, YOLOv8, depth cameras, visual-inertial SLAM]
+hardware:   [Pixhawk, Raspberry Pi, ESP32, Arduino, radio telemetry]
+currently:  Founder @ Aero Mavericks · Freelance Robotics Consultant
+open_to:    [research collaborations, robotics/UAV internships, freelance autonomy work]
+```
 
 ---
 
-## 🔥 what i'm cooking rn
+## Experience
 
-| project | what it is | vibe |
+| Role | Organization | When |
 |---|---|---|
-| 💊 [**Sasta Dawa Finder**](https://github.com/UnknownEng/sasta-dawa-finder) | search a medicine brand and find equal-formula, lower-cost alternatives. [live here](https://sasta-dawa-finder.vercel.app) | solving a real problem for real people |
-| ⚖️ [**LawerAI**](https://github.com/UnknownEng/lawerai) | AI project in Python. [live demo](https://lawerai-alpha.vercel.app) | AI meets law |
-| 🛩️ [**Fail-Safe Indoor UAV Navigation**](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation) | layered **ROS 2 + Nav2** architecture so indoor drones don't panic when things break | robotics research arc |
-| 📷 [**GPS-Denied Navigation**](https://github.com/UnknownEng/gps-denied-navigation-via-depth-camera) | navigating with a depth camera when GPS is not invited | no satellites, no problem |
+| **Founder & Team Captain** | Aero Mavericks | Nov 2025 – Present |
+| **Freelance Robotics & Automation Consultant** | Fiverr | Nov 2025 – Present |
+| **Drone Swarm Engineer** | INTELGENCY IT Solutions | Feb 2026 – Jun 2026 |
+| **Research Student**: precision landing & swarm comms | CSN Lab, SEECS NUST | Jun 2025 – Jan 2026 |
+| **Vice Captain & Electronics/Automation Lead** | Team Vitesse (NUST) | Feb 2024 – Sep 2025 |
+| **Robotics Engineer Intern** | Aerial Robotics Lab, NUST | Jul 2024 – Sep 2024 |
+| **Summer Intern**: industrial heat-tracing CAD design | Korea EHT Co., Ltd | Jul 2024 – Sep 2024 |
+| **Web Developer** | One International Services | Sep 2024 – Dec 2024 |
 
----
+<details>
+<summary><b>What I did in each role</b></summary>
 
-## 🗂️ more projects
-
-- 🗺️ [**WebODM Drone Mapping**](https://github.com/UnknownEng/webodm-based-mapping-algorithm-using-drone): turning drone photos into maps
-- 📡 [**Designing LiDAR**](https://github.com/UnknownEng/Designing-Lidar): LiDAR design experiments
-- 🤖 [**4-DOF WiFi Robotic Arm**](https://github.com/UnknownEng/4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM): control it from the web, it repeats your moves (my most starred one ⭐)
-- 🚁 [**DJI Tello Face Tracking**](https://github.com/UnknownEng/DJITello-Facetracking-Script): a drone that follows your face and keeps a safe distance
-- 🧭 [**Tello Mapping**](https://github.com/UnknownEng/DJI-Tello-Mapping-System) • [**Monitoring**](https://github.com/UnknownEng/Tello-Mnitoring-system) • [**Keyboard Control**](https://github.com/UnknownEng/KeyBoard-Control-DJI-Tello-Script)
-- 👁️ [**YOLOv8**](https://github.com/UnknownEng/YOLOv8): object detection (person, laptop, phone, keyboard)
-- 🛠️ [**Arduino F450 Quadcopter**](https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone) • [**CAD Drone Design**](https://github.com/UnknownEng/CAD-Drone-Design)
-- 🏥 [**Medical Response (basic)**](https://github.com/UnknownEng/medical-response-basic)
-- 🌐 [**Personal Portfolio**](https://github.com/UnknownEng/Personal-Portfolio) • [**Aero Mavericks Team Website**](https://github.com/UnknownEng/Team-Website)
-- 🎮 [**Rock Paper Scissors**](https://github.com/UnknownEng/Rock-Paper-Scissor) • 📝 [**Edu Quiz System**](https://github.com/UnknownEng/Edu-quiz-System-1st-Semester) (my C++ origin story, 1st sem)
-
----
-
-## 🧰 stack
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=py,c,cpp,js,ts&theme=dark)
 <br/>
-![Tools](https://skillicons.dev/icons?i=ros,arduino,raspberrypi,vercel,git,github&theme=dark)
 
-</div>
+**Aero Mavericks: Founder & Team Captain**
+- Own the full UAV lifecycle: electronics design, system integration, embedded programming and flight-ready prototypes
+- Captained the team at **National Aerothon'25** with an autonomous disaster-relief drone for medical sample collection. Won **3rd Overall** and the **"Swift Wing"** title
+- Team Captain for the **IMechE Pakistan UAS Challenge**
 
-**currently into:** ROS 2 • Nav2 • ArduPilot • computer vision • YOLO • drone autonomy • LiDAR • embedded
+**CSN Lab, SEECS: Research Student**
+- Developed **precision landing** on static and moving platforms
+- Implemented **drone-to-drone communication over radio telemetry**, so a swarm coordinates without a ground control station
+- Designed multi-UAV coordination in Gazebo and validated it in real flight
 
----
+**INTELGENCY IT Solutions: Drone Swarm Engineer**
+- Engineered multi-UAV swarm capabilities and coordination for autonomous missions
 
-## 📊 the receipts
+**Team Vitesse: Vice Captain & Electronics/Automation Lead**
+- **Teknofest International UAV Competition, Türkiye (2025):** built a UAV that lands on a moving unmanned surface vehicle (USV). **Finalist among 160+ international teams**
+- Electronics and automation for the IMechE UAS Challenge 2024 and National DBF 2024 (finalist)
 
-<div align="center">
+**Aerial Robotics Lab: Robotics Engineer Intern**
+- Built UAV autonomy workflows with ROS and MAVROS on the ArduPilot stack (Mission Planner, QGC, MAVProxy)
+- Built an ML-based pothole-detection UAV with onboard inference and server-side data transfer
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UnknownEng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2ed6a0&icon_color=2ed6a0&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownEng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2ed6a0" alt="top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownEng&theme=tokyonight&hide_border=true&background=0f2027&ring=2ed6a0&fire=2ed6a0&currStreakLabel=2ed6a0" alt="streak" />
-
-</div>
-
----
-
-## 🎯 goals fr
-
-- [x] ship a real product people can use (Sasta Dawa Finder is live ✅)
-- [ ] level up from ML beginner to "actually trains good models"
-- [ ] publish my UAV navigation research
-- [ ] grow Aero Mavericks into a proper deep-tech team
-- [ ] stack some ⭐ on these repos (help a brother out)
+</details>
 
 ---
 
-## 🤝 let's link up
+## Featured projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoorahmedrind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoorahmedrind/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-check%20it%20out-2ed6a0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/UnknownEng/Personal-Portfolio)
+### 🐝 [Resilient Swarm Formation](https://github.com/UnknownEng/resilient-swarm-formation)
+Decentralized formation control for 5 robots: **no leader, no GPS, no central coordinator**. Each robot runs an EKF and a formation controller, and a **CBF-QP safety filter** checks every command before it reaches the motors.
 
-**open to:** collabs • internships • robotics/UAV projects • "hey i have an idea" messages
+- **100% convergence and 0 collisions** across a 550-run campaign
+- Tested under 15% packet loss, 80 ms delay, one-way links and stalled robots
 
-<sub>built different. debugged different. 💚</sub>
+`ROS 2 Jazzy` `Gazebo Harmonic` `Python` `EKF` `CBF`
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ed6a0,50:203a43,100:0f2027&height=100&section=footer" alt="footer" /><!-- Put this file in your profile repo: github.com/UnknownEng/UnknownEng  ->  README.md -->
+### 🛩️ [Fail-Safe Indoor UAV Navigation](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation)
+A layered **ROS 2 / Nav2** autonomy stack for GPS-denied indoor flight. A separate safety layer monitors every Nav2 velocity command and **brakes deterministically** for dynamic obstacles before the command reaches the flight controller.
 
-<div align="center">
+`ROS 2` `Nav2` `Collision Monitor` `PX4/ArduPilot`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2ed6a0&height=200&section=header&text=Mansoor%20Ahmed&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20UnknownEng%20%E2%80%A2%20builds%20things%20that%20fly%2C%20think%20and%20save%20money&descAlignY=58&descSize=16" alt="header" />
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2ED6A0&center=true&vCenter=true&width=640&lines=Electrical+Engineer+%40+NUST+%F0%9F%87%B5%F0%9F%87%B0;Robotics+%E2%80%A2+UAVs+%E2%80%A2+ML+%28still+leveling+up%29;Web+dev+on+the+side+%28it+ships+tho%29;Open+to+collabs+%26+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
+### 📷 [GPS-Denied Navigation via Depth Camera](https://github.com/UnknownEng/gps-denied-navigation-via-depth-camera)
+UAV navigation without GPS, using onboard depth sensing and vision-based velocity control.
 
-![Profile Views](https://komarev.com/ghpvc/?username=UnknownEng&label=visitors&color=2ed6a0&style=flat-square)
-![Followers](https://img.shields.io/github/followers/UnknownEng?style=flat-square&color=2ed6a0&label=followers)
-![Repos](https://img.shields.io/badge/public%20repos-29-2ed6a0?style=flat-square)
-![Status](https://img.shields.io/badge/status-open%20to%20work-2ed6a0?style=flat-square)
+`Python` `Depth Camera` `MAVLink` `OpenCV`
 
-</div>
+</td>
+<td width="50%" valign="top">
 
----
+### 🗺️ [Drone Orthomosaic Mapping](https://github.com/UnknownEng/webodm-based-mapping-algorithm-using-drone)
+A pipeline that turns UAV survey imagery into georeferenced orthomosaic maps with WebODM.
 
-## 👋 wassup
+`Python` `WebODM` `Photogrammetry`
 
-i'm **Mansoor**, an Electrical Engineering student at **NUST (class of '27)** based in **Islamabad** 🇵🇰.
-i like building stuff where code meets hardware: drones, robots, and the occasional "why is this not working at 3am" moment.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- 🚁 **research mode:** UAV navigation + swarm stuff at NUST
-- 🧠 **learning:** machine & deep learning (beginner era, but we're locked in)
-- 💻 **side quests:** web apps that actually go live
-- 🚀 **entrepreneur brain:** if a problem annoys me, i try to ship a fix for it
+### 💊 [Sasta Dawa Finder](https://github.com/UnknownEng/sasta-dawa-finder) · [live](https://sasta-dawa-finder.vercel.app)
+Search a medicine brand and find lower-cost alternatives with the same formula.
 
-> no cap: i learn by building. every repo here is me figuring something out in public.
+`JavaScript` `Vercel`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🔥 what i'm cooking rn
+### ⚖️ [LawerAI](https://github.com/UnknownEng/lawerai) · [live](https://lawerai-alpha.vercel.app)
+An AI legal assistant.
 
-| project | what it is | vibe |
-|---|---|---|
-| 💊 [**Sasta Dawa Finder**](https://github.com/UnknownEng/sasta-dawa-finder) | search a medicine brand and find equal-formula, lower-cost alternatives. [live here](https://sasta-dawa-finder.vercel.app) | solving a real problem for real people |
-| ⚖️ [**LawerAI**](https://github.com/UnknownEng/lawerai) | AI project in Python. [live demo](https://lawerai-alpha.vercel.app) | AI meets law |
-| 🛩️ [**Fail-Safe Indoor UAV Navigation**](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation) | layered **ROS 2 + Nav2** architecture so indoor drones don't panic when things break | robotics research arc |
-| 📷 [**GPS-Denied Navigation**](https://github.com/UnknownEng/gps-denied-navigation-via-depth-camera) | navigating with a depth camera when GPS is not invited | no satellites, no problem |
+`Python` `LLM` `Vercel`
 
----
+</td>
+</tr>
+</table>
 
-## 🗂️ more projects
+<details>
+<summary><b>More projects</b></summary>
 
-- 🗺️ [**WebODM Drone Mapping**](https://github.com/UnknownEng/webodm-based-mapping-algorithm-using-drone): turning drone photos into maps
-- 📡 [**Designing LiDAR**](https://github.com/UnknownEng/Designing-Lidar): LiDAR design experiments
-- 🤖 [**4-DOF WiFi Robotic Arm**](https://github.com/UnknownEng/4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM): control it from the web, it repeats your moves (my most starred one ⭐)
-- 🚁 [**DJI Tello Face Tracking**](https://github.com/UnknownEng/DJITello-Facetracking-Script): a drone that follows your face and keeps a safe distance
-- 🧭 [**Tello Mapping**](https://github.com/UnknownEng/DJI-Tello-Mapping-System) • [**Monitoring**](https://github.com/UnknownEng/Tello-Mnitoring-system) • [**Keyboard Control**](https://github.com/UnknownEng/KeyBoard-Control-DJI-Tello-Script)
-- 👁️ [**YOLOv8**](https://github.com/UnknownEng/YOLOv8): object detection (person, laptop, phone, keyboard)
-- 🛠️ [**Arduino F450 Quadcopter**](https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone) • [**CAD Drone Design**](https://github.com/UnknownEng/CAD-Drone-Design)
-- 🏥 [**Medical Response (basic)**](https://github.com/UnknownEng/medical-response-basic)
-- 🌐 [**Personal Portfolio**](https://github.com/UnknownEng/Personal-Portfolio) • [**Aero Mavericks Team Website**](https://github.com/UnknownEng/Team-Website)
-- 🎮 [**Rock Paper Scissors**](https://github.com/UnknownEng/Rock-Paper-Scissor) • 📝 [**Edu Quiz System**](https://github.com/UnknownEng/Edu-quiz-System-1st-Semester) (my C++ origin story, 1st sem)
-
----
-
-## 🧰 stack
-
-<div align="center">
-
-![Python](https://skillicons.dev/icons?i=py,c,cpp,js,ts&theme=dark)
 <br/>
-![Tools](https://skillicons.dev/icons?i=ros,arduino,raspberrypi,vercel,git,github&theme=dark)
 
-</div>
+| Area | Repos |
+|---|---|
+| **Drones / CV** | [DJI Tello Face Tracking](https://github.com/UnknownEng/DJITello-Facetracking-Script) · [Tello Mapping](https://github.com/UnknownEng/DJI-Tello-Mapping-System) · [Tello Monitoring](https://github.com/UnknownEng/Tello-Mnitoring-system) · [Tello Keyboard Control](https://github.com/UnknownEng/KeyBoard-Control-DJI-Tello-Script) · [YOLOv8 Detection](https://github.com/UnknownEng/YOLOv8) · [Drone Digital Twin](https://github.com/UnknownEng/proj_drone_twin) · [Medical Response UAV](https://github.com/UnknownEng/medical-response-basic) |
+| **Hardware** | [Arduino F450 Quadcopter](https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone) · [Raspberry Pi on ArduCopter](https://github.com/UnknownEng/raspberry_pi-on-ArduCopter) · [CAD Drone Design](https://github.com/UnknownEng/CAD-Drone-Design) · [Designing LiDAR](https://github.com/UnknownEng/Designing-Lidar) · [4-DOF WiFi Robotic Arm](https://github.com/UnknownEng/4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM) |
+| **Web** | [Personal Portfolio](https://github.com/UnknownEng/Personal-Portfolio) · [Aero Mavericks Website](https://github.com/UnknownEng/Team-Website) |
 
-**currently into:** ROS 2 • Nav2 • ArduPilot • computer vision • YOLO • drone autonomy • LiDAR • embedded
+</details>
 
 ---
 
-## 📊 the receipts
+## Research
+
+- **A Layered ROS 2/Nav2 Architecture for Fail-Safe Indoor UAV Navigation with Deterministic Dynamic-Obstacle Braking** ([code](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation))
+- **Resilient Decentralized Shape Formation of Multi-Robot Swarms Under Adversarial Real-World Faults in High-Complexity Disaster Environments** ([code](https://github.com/UnknownEng/resilient-swarm-formation))
+- **A Review of Visual and Visual-Inertial SLAM Techniques for Dynamic-Environment Localization and Mapping in Autonomous UAVs**
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| 🏅 | **Rector's Gold Medal**, NUST |
+| 🇹🇷 | **Finalist**, Teknofest International UAV Competition 2025 (160+ international teams) |
+| 🥉 | **3rd Overall + "Swift Wing"**, National Aerothon'25 (Team Captain) |
+| ✈️ | **Finalist**, National Design, Build & Fly 2024 · **112 / 200**, International DBF 2026 |
+| 🪪 | Certified **UAS Remote Pilot**, Open Category A1/A3 |
+
+---
+
+## Tech stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=UnknownEng&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2ed6a0&icon_color=2ed6a0&include_all_commits=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownEng&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=2ed6a0" alt="top languages" />
+**Robotics & autonomy**<br/>
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![PX4](https://img.shields.io/badge/PX4-0B5A9E?style=for-the-badge&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-1B1B1B?style=for-the-badge&logoColor=white)
+![MAVLink](https://img.shields.io/badge/MAVLink-4B5563?style=for-the-badge&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logoColor=white)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UnknownEng&theme=tokyonight&hide_border=true&background=0f2027&ring=2ed6a0&fire=2ed6a0&currStreakLabel=2ed6a0" alt="streak" />
+**Languages & vision**<br/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,opencv&theme=dark" alt="languages" />
+
+**Hardware & tools**<br/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,git,docker,vercel&theme=dark" alt="tools" />
 
 </div>
 
 ---
 
-## 🎯 goals fr
-
-- [x] ship a real product people can use (Sasta Dawa Finder is live ✅)
-- [ ] level up from ML beginner to "actually trains good models"
-- [ ] publish my UAV navigation research
-- [ ] grow Aero Mavericks into a proper deep-tech team
-- [ ] stack some ⭐ on these repos (help a brother out)
-
----
-
-## 🤝 let's link up
+## GitHub stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoorahmedrind-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoorahmedrind/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-check%20it%20out-2ed6a0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/UnknownEng/Personal-Portfolio)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UnknownEng&theme=github_dark" alt="GitHub profile details" />
 
-**open to:** collabs • internships • robotics/UAV projects • "hey i have an idea" messages
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UnknownEng&theme=github_dark" alt="Repos per language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UnknownEng&theme=github_dark" alt="Most commit language" />
 
-<sub>built different. debugged different. 💚</sub>
+<img src="https://streak-stats.demolab.com/?user=UnknownEng&hide_border=true&background=0f2027&ring=2ed6a0&fire=2ed6a0&currStreakLabel=2ed6a0&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ed6a0,50:203a43,100:0f2027&height=100&section=footer" alt="footer" />
+---
+
+<div align="center">
+
+**Open to** research collaborations · robotics/UAV internships · freelance autonomy projects
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoorahmedrind/)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:unknownengineer23@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ed6a0,50:203a43,100:0f2027&height=100&section=footer" alt="" />
+
+</div>
