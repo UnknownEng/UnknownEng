@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2ed6a0&height=200&section=header&text=Mansoor%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UAV%20Autonomy%20%E2%80%A2%20Swarm%20Robotics%20%E2%80%A2%20ROS%202&descAlignY=58&descSize=18" alt="Mansoor Ahmed" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2ed6a0&height=200&section=header&text=Mansoor%20Ahmed&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UAV%20Autonomy%20%E2%80%A2%20Swarm%20Robotics%20%E2%80%A2%20Founder%20%40%20Maverick%20Technologies&descAlignY=58&descSize=18" alt="Mansoor Ahmed" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=2ED6A0&center=true&vCenter=true&width=700&lines=Founder+%40+Aero+Mavericks;UAV+Autonomy+%26+Multi-Robot+Swarm+Engineer;ROS+2+%E2%80%A2+PX4%2FArduPilot+%E2%80%A2+Computer+Vision;Teknofest+Finalist+%E2%80%A2+Aerothon'25+3rd+Overall;Electrical+Engineering+%40+NUST+'27)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=2ED6A0&center=true&vCenter=true&width=700&lines=UAV+Autonomy+%26+Multi-Robot+Swarm+Engineer;Founder+%40+Maverick+Technologies+%26+Aero+Mavericks;ROS+2+%E2%80%A2+PX4%2FArduPilot+%E2%80%A2+Computer+Vision;Teknofest+Finalist+%E2%80%A2+Aerothon'25+3rd+Overall;Electrical+Engineering+%40+NUST+'27)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mansoorahmedrind-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansoorahmedrind/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-visit-2ed6a0?style=flat-square&logo=vercel&logoColor=black)](https://personal-portfolio-swart-sigma-44.vercel.app/)
+[![Maverick Technologies](https://img.shields.io/badge/Maverick_Technologies-website-0f2027?style=flat-square&logo=astro&logoColor=white)](https://maverick-technologies.vercel.app)
 [![Email](https://img.shields.io/badge/Email-ahmedmansoorrind1210-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedmansoorrind1210@gmail.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-hire%20me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/s/5r2dqg4)
 ![Profile Views](https://komarev.com/ghpvc/?username=UnknownEng&label=views&color=2ed6a0&style=flat-square)
@@ -16,18 +17,132 @@
 
 ## About me
 
-I build **autonomous drones and multi-robot swarms**, from Gazebo simulation to real flight.
+I build **autonomous drones and multi-robot swarms**, from Gazebo simulation to real flight, and I ship products people actually use.
 
-I'm an Electrical Engineering undergraduate at **NUST, Islamabad (Class of 2027)**, a **Rector's Gold Medalist**, and founder of **[Aero Mavericks](https://github.com/UnknownEng/Team-Website)**, a student UAV team that builds autonomous aircraft for disaster relief, medical delivery and precision missions. I've spent the last 2+ years working on UAV autonomy.
+I'm an Electrical Engineering undergraduate at **NUST, Islamabad (Class of 2027)**, a **Rector's Gold Medalist**, founder of **Aero Mavericks** (a student UAV team building autonomous aircraft for disaster relief, medical delivery and precision missions) and founder of **[Maverick Technologies](https://maverick-technologies.vercel.app)**, where I build apps for Pakistan and beyond.
 
 ```yaml
 focus:      [UAV autonomy, swarm robotics, precision landing, GPS-denied navigation]
 stack:      [ROS 2, Nav2, MAVROS, PyMAVLink, PX4, ArduPilot, Gazebo]
 vision:     [OpenCV, YOLOv8, depth cameras, visual-inertial SLAM]
 hardware:   [Pixhawk, Raspberry Pi, ESP32, Arduino, radio telemetry]
-currently:  Founder @ Aero Mavericks · Freelance Robotics Consultant
+building:   [Maverick Technologies: consumer apps, health, legal & edtech tools]
 open_to:    [research collaborations, robotics/UAV internships, freelance autonomy work]
 ```
+
+---
+
+## 🚁 Drones & UAV autonomy
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛩️ [Fail-Safe Indoor UAV Navigation](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation)
+GPS-denied indoor flight with **ROS 2 Jazzy + Nav2 + SLAM Toolbox + ArduPilot DDS**. A layered safety stack (collision monitor, watchdog bridge, guarded takeoff) brakes deterministically for dynamic obstacles before commands reach the flight controller.
+
+`ROS 2` `Nav2` `SLAM` `ArduPilot`
+
+</td>
+<td width="50%" valign="top">
+
+### 🐝 [Resilient Swarm Formation](https://github.com/UnknownEng/resilient-swarm-formation)
+Decentralized formation control for 5 robots: **no leader, no GPS, no central coordinator**. A **CBF-QP safety filter** checks every command. **100% convergence, 0 collisions** across 550 runs under packet loss, delay and stalled robots.
+
+`ROS 2 Jazzy` `Gazebo Harmonic` `EKF` `CBF`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [RL-Based UAV Navigation](https://github.com/UnknownEng/Reinforcement-Learning-Based-UAV-Navigation)
+**PPO** quadrotor navigation through procedurally generated forests with 3-D LiDAR, a rule shield and a barrier-function safety filter, validated in **PX4/Gazebo SITL**.
+
+`PPO` `PX4` `LiDAR` `Safety filters`
+
+</td>
+<td width="50%" valign="top">
+
+### 💊 [Medical Response Drone](https://github.com/UnknownEng/medical-response-basic)
+Autonomous medical-delivery drone: **ArUco** marker search, precision landing, payload drop at a GPS target and failsafes. pymavlink + ROS/MAVROS with full SITL simulation.
+
+`ArduPilot` `OpenCV` `MAVROS` `Precision landing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗺️ [Drone Mapping with WebODM](https://github.com/UnknownEng/webodm-based-mapping-algorithm-using-drone)
+Survey planning from GeoTIFF, ArduPilot + MAVROS flight with geotagged capture, and **orthophoto, DSM and 3D model** generation. Verified in SITL + Gazebo.
+
+`ArduPilot` `MAVROS` `WebODM` `Photogrammetry`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧭 [APF-Nav Obstacle Avoidance](https://github.com/UnknownEng/APF-Nav_Artificial_Potential_Field_Navigator-)
+LiDAR-based 3D obstacle avoidance for a quadrotor using **Artificial Potential Fields** with vortex repulsion and local-minimum escape.
+
+`ROS Noetic` `Gazebo 11` `LiDAR`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [AeroMaverick GCS](https://github.com/UnknownEng/AeroMaverick-GCS)
+Ground control station for **PX4 & ArduPilot** over MAVLink and MAVROS, for Windows and Android.
+
+`MAVLink` `MAVROS` `Windows` `Android`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [Drone Training Simulator](https://github.com/UnknownEng/drone-training-simulator)
+Offline pilot-training simulator for Windows with a built-in ArduCopter-compatible flight controller and **real ArduPilot SITL** in lock-step.
+
+`ArduPilot SITL` `Three.js` `Electron`
+
+</td>
+</tr>
+</table>
+
+| More drone work | |
+|---|---|
+| 🛠️ [Arduino F450 Quadcopter](https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone) | Arduino flight controller (MPU-6050, PID, auto-level) with failsafes and a PC simulator that tests the real code |
+| 🙂 [DJI Tello Face Tracking](https://github.com/UnknownEng/DJITello-Facetracking-Script) | Tello follows a face and holds a safe distance |
+| 🗺️ [DJI Tello Mapping](https://github.com/UnknownEng/DJI-Tello-Mapping-System) | Mapping with a DJI Tello |
+| 📷 [Tello Monitoring System](https://github.com/UnknownEng/Tello-Mnitoring-system) | Image capture and monitoring with a Tello |
+| ⌨️ [Tello Keyboard Control](https://github.com/UnknownEng/KeyBoard-Control-DJI-Tello-Script) | Fly a Tello from your keyboard |
+
+---
+
+## 💼 Maverick Technologies: products
+
+Apps I've built and shipped as founder of **[Maverick Technologies](https://maverick-technologies.vercel.app)**.
+
+| Product | What it does | Get it |
+|---|---|---|
+| 🎙️ **[JohnD Personal Assistant](https://github.com/UnknownEng/JohnD-Personal-Assistant)** | Offline voice assistant for Windows, with Urdu support | [Download](https://github.com/UnknownEng/JohnD-Personal-Assistant/releases/latest) |
+| ⚖️ **[LawerAI (قانون معاون)](https://github.com/UnknownEng/lawerai-app)** | AI legal assistant for Pakistani law | [Android app](https://github.com/UnknownEng/lawerai-app) · [Web](https://lawerai-alpha.vercel.app) |
+| 📖 **[HURF (حرف)](https://github.com/UnknownEng/hurf-app)** | Urdu reading-difference screening for Class 1–5 students | [Android app](https://github.com/UnknownEng/hurf-app/releases/latest) |
+| 👕 **[FitCheck](https://github.com/UnknownEng/fitcheck)** | AI closet scanner, outfit tracker, event stylist and laundry reminders | [Android app](https://github.com/UnknownEng/fitcheck) · [Web](https://fitcheck-wardrobe.vercel.app) |
+| 🏪 **[Dukaan2Dream](https://github.com/UnknownEng/dukaan2dream-android)** | Loyal customers fund local brands' new outlets | [Android app](https://github.com/UnknownEng/dukaan2dream-android) · [Web](https://dukaan2dream.vercel.app) |
+| 💊 **[Sasta Dawa Finder](https://github.com/UnknownEng/sasta-dawa-finder)** | Official DRAP medicine prices and cheaper brands with the same formula | [Web](https://sasta-dawa-finder.vercel.app) |
+
+---
+
+## 🔧 Other projects
+
+| Project | What it does |
+|---|---|
+| 🦾 [4-DOF Wi-Fi Robotic Arm](https://github.com/UnknownEng/4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM) | ESP32 robot arm controlled from your phone; record and replay moves, with a Wokwi simulation |
+| 📡 [Designing LiDAR](https://github.com/UnknownEng/Designing-Lidar) | Real-time 2D LiDAR simulator: ray casting, noise, dropout and live range plots |
+| 🚀 [Asclepius Crew Health](https://github.com/UnknownEng/asclepius-crew-health) · [live](https://asclepius-crew-health.vercel.app) | NASA Space Apps 2026: autonomous astronaut health monitoring with anomaly detection |
+| 🔑 [Arduino RF/IR Capture & Replay](https://github.com/UnknownEng/Car-Key-FOB-Hacking-Device-Using-Arduino-UNO-and-RF-Module) | Educational RF/IR capture and replay demo (nRF24L01 + IRremote) with a Wokwi simulation |
+| 🌐 [Personal Portfolio](https://github.com/UnknownEng/Personal-Portfolio) · [live](https://personal-portfolio-swart-sigma-44.vercel.app) | React 19 + Vite portfolio with an Express API and private CMS |
 
 ---
 
@@ -35,6 +150,7 @@ open_to:    [research collaborations, robotics/UAV internships, freelance autono
 
 | Role | Organization | When |
 |---|---|---|
+| **Founder** | Maverick Technologies | Present |
 | **Founder & Team Captain** | Aero Mavericks | Nov 2025 – Present |
 | **Freelance Robotics & Automation Consultant** | Fiverr | Nov 2025 – Present |
 | **Drone Swarm Engineer** | INTELGENCY IT Solutions | Feb 2026 – Jun 2026 |
@@ -74,83 +190,6 @@ open_to:    [research collaborations, robotics/UAV internships, freelance autono
 
 ---
 
-## Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🐝 [Resilient Swarm Formation](https://github.com/UnknownEng/resilient-swarm-formation)
-Decentralized formation control for 5 robots: **no leader, no GPS, no central coordinator**. Each robot runs an EKF and a formation controller, and a **CBF-QP safety filter** checks every command before it reaches the motors.
-
-- **100% convergence and 0 collisions** across a 550-run campaign
-- Tested under 15% packet loss, 80 ms delay, one-way links and stalled robots
-
-`ROS 2 Jazzy` `Gazebo Harmonic` `Python` `EKF` `CBF`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛩️ [Fail-Safe Indoor UAV Navigation](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation)
-A layered **ROS 2 / Nav2** autonomy stack for GPS-denied indoor flight. A separate safety layer monitors every Nav2 velocity command and **brakes deterministically** for dynamic obstacles before the command reaches the flight controller.
-
-`ROS 2` `Nav2` `Collision Monitor` `PX4/ArduPilot`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📷 [GPS-Denied Navigation via Depth Camera](https://github.com/UnknownEng/gps-denied-navigation-via-depth-camera)
-UAV navigation without GPS, using onboard depth sensing and vision-based velocity control.
-
-`Python` `Depth Camera` `MAVLink` `OpenCV`
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ [Drone Orthomosaic Mapping](https://github.com/UnknownEng/webodm-based-mapping-algorithm-using-drone)
-A pipeline that turns UAV survey imagery into georeferenced orthomosaic maps with WebODM.
-
-`Python` `WebODM` `Photogrammetry`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💊 [Sasta Dawa Finder](https://github.com/UnknownEng/sasta-dawa-finder) · [live](https://sasta-dawa-finder.vercel.app)
-Search a medicine brand and find lower-cost alternatives with the same formula.
-
-`JavaScript` `Vercel`
-
-</td>
-<td width="50%" valign="top">
-
-### ⚖️ [LawerAI](https://github.com/UnknownEng/lawerai) · [live](https://lawerai-alpha.vercel.app)
-An AI legal assistant.
-
-`Python` `LLM` `Vercel`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>More projects</b></summary>
-
-<br/>
-
-| Area | Repos |
-|---|---|
-| **Drones / CV** | [DJI Tello Face Tracking](https://github.com/UnknownEng/DJITello-Facetracking-Script) · [Tello Mapping](https://github.com/UnknownEng/DJI-Tello-Mapping-System) · [Tello Monitoring](https://github.com/UnknownEng/Tello-Mnitoring-system) · [Tello Keyboard Control](https://github.com/UnknownEng/KeyBoard-Control-DJI-Tello-Script) · [YOLOv8 Detection](https://github.com/UnknownEng/YOLOv8) · [Drone Digital Twin](https://github.com/UnknownEng/proj_drone_twin) · [Medical Response UAV](https://github.com/UnknownEng/medical-response-basic) |
-| **Hardware** | [Arduino F450 Quadcopter](https://github.com/UnknownEng/Arduino-Based-F450-Quadcopter-Drone) · [Raspberry Pi on ArduCopter](https://github.com/UnknownEng/raspberry_pi-on-ArduCopter) · [CAD Drone Design](https://github.com/UnknownEng/CAD-Drone-Design) · [Designing LiDAR](https://github.com/UnknownEng/Designing-Lidar) · [4-DOF WiFi Robotic Arm](https://github.com/UnknownEng/4-DOF-Wifi-Web-Control-Motion-Repeater-Robotic-ARM) |
-| **Web** | [Personal Portfolio](https://github.com/UnknownEng/Personal-Portfolio) · [Aero Mavericks Website](https://github.com/UnknownEng/Team-Website) |
-
-</details>
-
----
-
 ## Research
 
 - **A Layered ROS 2/Nav2 Architecture for Fail-Safe Indoor UAV Navigation with Deterministic Dynamic-Obstacle Braking** ([code](https://github.com/UnknownEng/Layered-ROS-2-Nav2-Architecture-for-Fail-Safe-Indoor-UAV-Navigation))
@@ -167,6 +206,7 @@ An AI legal assistant.
 | 🇹🇷 | **Finalist**, Teknofest International UAV Competition 2025 (160+ international teams) |
 | 🥉 | **3rd Overall + "Swift Wing"**, National Aerothon'25 (Team Captain) |
 | ✈️ | **Finalist**, National Design, Build & Fly 2024 · **112 / 200**, International DBF 2026 |
+| 🚀 | NASA Space Apps Challenge 2026 participant ([Asclepius](https://github.com/UnknownEng/asclepius-crew-health)) |
 | 🪪 | Certified **UAS Remote Pilot**, Open Category A1/A3 |
 
 ---
@@ -184,6 +224,9 @@ An AI legal assistant.
 
 **Languages & vision**<br/>
 <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,opencv&theme=dark" alt="languages" />
+
+**Apps & web**<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,astro,electron,androidstudio&theme=dark" alt="apps and web" />
 
 **Hardware & tools**<br/>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,ubuntu,git,docker,vercel&theme=dark" alt="tools" />
